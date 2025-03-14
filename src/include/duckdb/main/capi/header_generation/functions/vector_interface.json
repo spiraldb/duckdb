@@ -294,7 +294,7 @@
                     "type": "duckdb_data_chunk",
                     "name": "chunk"
                 }
-                ]
+            ]
         },
         {
             "name": "duckdb_verify_data_chunk",
