@@ -3,7 +3,6 @@
 #include "duckdb/main/capi/capi_internal.hpp"
 #include "duckdb/common/type_visitor.hpp"
 
-#include <iostream>
 #include <string.h>
 
 duckdb_data_chunk duckdb_create_data_chunk(duckdb_logical_type *column_types, idx_t column_count) {
